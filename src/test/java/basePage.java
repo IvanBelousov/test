@@ -3,4 +3,6 @@ public class basePage {
     int b;
 
     int d;
+
+    int c;
 }
