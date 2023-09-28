@@ -1,3 +1,4 @@
 public class basePage {
-    int c;
+    int a;
+    int b;
 }
