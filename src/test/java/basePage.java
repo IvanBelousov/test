@@ -7,4 +7,5 @@ public class basePage {
     int c;
 
     int f;
+    int e;
 }
