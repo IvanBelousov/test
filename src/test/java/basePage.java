@@ -5,4 +5,6 @@ public class basePage {
     int d;
 
     int c;
+
+    int f;
 }
